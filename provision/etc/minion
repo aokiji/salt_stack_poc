@@ -1,0 +1,2 @@
+file_client: local
+ca.cert_base_path: '/etc/pki'
